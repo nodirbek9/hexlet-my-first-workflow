@@ -11,7 +11,7 @@ public class Application {
 
     public static void main(String[] args) {
         Application application = new Application();
-        application.queryProducts(); // main
+        application.queryProducts(); // maindsf
     }
 
     private Application() {
